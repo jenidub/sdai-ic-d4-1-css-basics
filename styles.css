@@ -1,0 +1,18 @@
+/* Page Defaults */
+body {
+    background-color: #FFC425;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Element Rules */
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: 	#2F241F;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+/* Class Rules */
+/* ID Rules */
